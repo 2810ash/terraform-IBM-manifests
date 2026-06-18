@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: shopping-cart
-        image: 2810yash/shopping-cart:latest
+        image: 2810yash/shopping-cart:1
         ports:
         - containerPort: 8070
